@@ -17,3 +17,7 @@ artifacts:
   new-format:
     type: model
     path: dasds
+  xyz:
+    type: model
+    path: adsadas
+
