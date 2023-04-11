@@ -1,0 +1,19 @@
+artifacts:
+  churn:
+    type: model
+    path: models/churn.pkl
+  segment:
+    type: model
+    path: s3://mycorp/proj-ml/segm-model-2022-04-15.pt
+  cv-class:
+    type: model
+    path: s3://mycorp/proj-ml/classif-v2.pt
+  m5:
+    type: model
+    path: dasdsa
+  mymodel-new-format:
+    type: model
+    path: dsasdsa
+  new-format:
+    type: model
+    path: dasds

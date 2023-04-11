@@ -1,0 +1,4 @@
+artifacts:
+  nested-model:
+    type: model
+    path: ../models/churn.pkl
