@@ -3,3 +3,14 @@ artifacts:
     type: model
     path: dsadasd
     desc: "Test model - this description should be visible in Studio"
+    labels:
+    - this
+    - should
+    - be
+    - visible
+    - in
+    - Studio
+    meta:
+      this: should
+      be: visible
+      in: Studio
