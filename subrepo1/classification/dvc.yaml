@@ -2,3 +2,4 @@ artifacts:
   mymodel:
     type: model
     path: dsadasd
+    desc: "Test model - this description should be visible in Studio"
