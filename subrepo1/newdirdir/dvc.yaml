@@ -1,0 +1,4 @@
+artifacts:
+  testing-be-can-create-newdir:
+    path: path
+    type: model
