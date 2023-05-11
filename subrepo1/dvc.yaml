@@ -21,3 +21,6 @@ artifacts:
     type: model
     path: adsadas
 
+  testing:
+    path: adds
+    type: model
