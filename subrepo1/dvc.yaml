@@ -24,3 +24,6 @@ artifacts:
   testing:
     path: adds
     type: model
+  new-model:
+    path: path/to/model
+    type: model
